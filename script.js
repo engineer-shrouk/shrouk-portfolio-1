@@ -12,7 +12,7 @@ const projects = {
 
         subtitle: "Superstore Sales Dashboard using Microsoft Excel.",
 
-        image: "images/superstore-dashboard.png",
+      image: "superstore-dashboard.jpg",
 
         description:
             "The goal was not just to visualize the data, but to explore it and turn raw numbers into meaningful business insights.",
@@ -55,8 +55,7 @@ const projects = {
 
         subtitle: "Sales Dashboard using Microsoft Power BI.",
 
-        image: "images/town-team-dashboard.png",
-
+       image: "town-team-dashboard.jpg",
         description:
             "An interactive Power BI dashboard designed to transform sales data into a clear and accessible business view.",
 
