@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Shrouk Ahmed | Data Analyst</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="hero">
+
+        <div class="hero-content">
+
+            <p class="small-text">DATA ANALYST</p>
+
+            <h1>
+                Shrouk<br>
+                Ahmed.
+            </h1>
+
+            <p class="role">
+                Turning Data Into Meaningful Insights.
+            </p>
+
+            <p class="description">
+                I analyze data, discover patterns, and transform
+                complex information into clear business insights.
+            </p>
+
+            <div class="buttons">
+
+                <a href="#projects" class="btn primary">
+                    View My Work
+                </a>
+
+                <a href="#contact" class="btn secondary">
+                    Let's Connect
+                </a>
+
+            </div>
+
+        </div>
+
+    </main>
+
+</body>
+
+</html>
