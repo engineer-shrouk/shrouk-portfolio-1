@@ -56,6 +56,34 @@ const projects = {
         ],
         takeaway: "This project strengthened my ability to turn business data into an interactive Power BI experience that makes analysis easier and more actionable.",
         skills: "Power BI · Data Analysis · Data Visualization · Dashboard Design"
+       },
+
+    amazon: {
+        category: "POWER BI · DATA ANALYSIS",
+        title: "Amazon Products Analytics Dashboard",
+        subtitle: "Amazon Products Analytics Dashboard using Microsoft Power BI.",
+        image: "./amazon-dashboard.png.png",
+        description: "An interactive Power BI dashboard built to analyze Amazon products and turn product, pricing, discount, rating, and engagement data into meaningful business insights.",
+        workTitle: "WHAT I WORKED ON",
+        work: [
+            "Cleaned and prepared the raw Amazon products data.",
+            "Built the data model and prepared the data for analysis.",
+            "Created analytical measures and KPIs using DAX.",
+            "Designed an interactive Power BI dashboard with a clear user experience.",
+            "Analyzed ratings, pricing, discounts, and customer engagement.",
+            "Used analytical insights to understand product performance and discount patterns."
+        ],
+        insightsTitle: "KEY INSIGHTS",
+        insights: [
+            "Product performance based on ratings and engagement",
+            "Price and discount band analysis",
+            "Relationship between discounts and product performance",
+            "Rating distribution across products",
+            "Customer engagement patterns",
+            "Interactive filtering for deeper product analysis"
+        ],
+        takeaway: "This project strengthened my ability to move beyond dashboard design and use data analysis to understand product performance and support better business decisions.",
+        skills: "Power BI · DAX · Data Cleaning · Data Modeling · Data Analysis · Data Visualization"
     }
 
 };
